@@ -20,9 +20,9 @@ Access the original ODYM here: https://github.com/IndEcol/ODYM
 
 ```
 mfa-sa-vehicles/
-├── data/               # Input data: vehicle registrations, material compositions, etc.
-├── checkpoints/          # Jupyter notebooks for analysis and model runs
-├── README.md           # Project overview (this file)
+├── data/                    # Input data: vehicle registrations, material compositions, etc.
+├── checkpoints/             # Jupyter notebooks for analysis and model runs
+├── README.md                # Project overview (this file)
 ├── ODYM requirements.txt    # Python packages and dependencies
 
 ```
